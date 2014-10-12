@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\fizzBuzzTest.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-10-11" time="19:49:51">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="ROXY-PC" user="ROXY" user-domain="ROXY-PC" />
+  <culture-info current-culture="es-PE" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\fizzBuzzTest.dll" executed="True" result="Success" success="True" time="0.080" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="fizzBuzzTest" executed="True" result="Success" success="True" time="0.062" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="FizzBuzzTestt" executed="True" result="Success" success="True" time="0.059" asserts="0">
+            <results>
+              <test-case name="fizzBuzzTest.FizzBuzzTestt.NumerosaEvaluar" executed="True" result="Success" success="True" time="0.046" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

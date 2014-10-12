@@ -1,0 +1,9 @@
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\obj\Debug\fizzBuzzTest.csprojResolveAssemblyReference.cache
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\fizzBuzzTest.dll
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\fizzBuzzTest.pdb
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\fizzBuzz.dll
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\nunit.framework.dll
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\fizzBuzz.pdb
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\bin\Debug\nunit.framework.xml
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\obj\Debug\fizzBuzzTest.dll
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzzTest\obj\Debug\fizzBuzzTest.pdb

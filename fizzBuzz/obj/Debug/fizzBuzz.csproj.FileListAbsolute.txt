@@ -1,0 +1,5 @@
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.dll
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.pdb
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.dll
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.pdb
+E:\UPN\2014-II\CURSOS\CALIDAD\ejercicios visual\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.csprojResolveAssemblyReference.cache
